@@ -1310,12 +1310,12 @@ body {
   }
 }
 .cid-r7cfItpMlb {
-  padding-top: 30px;
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-r7ckEyp1KO {
-  padding-top: 60px;
+  padding-top: 30px;
   padding-bottom: 60px;
   background: #ffffff;
 }
@@ -3517,4 +3517,27 @@ body {
 }
 .cid-r7cx2svcr3 .social-list a:focus {
   text-decoration: none;
+}
+.cid-r9MyXxOXN1 {
+  background: #ffffff;
+}
+.cid-r9MyXxOXN1 .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-r9MyXxOXN1 .mbr-figure {
+  margin: 0 auto;
+}
+.cid-r9MyXxOXN1 figcaption {
+  position: relative;
+}
+.cid-r9MyXxOXN1 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-r9MyXxOXN1 .image-block {
+    width: 100% !important;
+  }
 }
