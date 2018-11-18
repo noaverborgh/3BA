@@ -1288,14 +1288,26 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-r7cjxlqQYi {
-  padding-top: 60px;
+.cid-r9Lk5RSQFw {
+  padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background: #ffffff;
 }
-.cid-r7cjxlqQYi H2 {
-  color: #232323;
-  text-align: center;
+.cid-r9Lk5RSQFw .image-block {
+  margin: auto;
+}
+.cid-r9Lk5RSQFw figcaption {
+  position: relative;
+}
+.cid-r9Lk5RSQFw figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-r9Lk5RSQFw .image-block {
+    width: 100% !important;
+  }
 }
 .cid-r7cfItpMlb {
   padding-top: 30px;
